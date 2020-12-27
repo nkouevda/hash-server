@@ -1,6 +1,6 @@
-# hash-server
+# hash-service
 
-A trivial example of a [Finatra](https://twitter.github.io/finatra/) server.
+A trivial example of a [Finatra](https://twitter.github.io/finatra/) service.
 
 ## Usage
 
